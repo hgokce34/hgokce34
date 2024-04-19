@@ -57,29 +57,6 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
 
- <div align="center"> 
-  <a href="https://www.linkedin.com/in/hamza-gokce/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
-  </a>
-  <a href = "mailto:gokcehamza2934@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
-  </a>
-  <a href="(https://medium.com/@gokcehamza2934)">
-   <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
-  </a>
-  <a href="https://twitter.com/thelastdiver">
-   <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
-  </a>
-  <a href="https://www.instagram.com/hamzagokce.travel/?hl=tr" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
-  </a>
-  <a href="(https://discord.com/channels/@me)" target="_blank">
-   <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
-  </a>
-    <a href="https://hamzagokce.atlassian.net/jira/software/projects/LID/boards/11/backlog" target="_blank">
-   <img alt="jira" src="https://img.shields.io/badge/jira-%23333?style=for-the-badge&logo=jira&logoColor=#7289d9"/>
-  </a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgokce34&show_icons=true&locale=en&layout=compact" alt="hgokce34" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgokce34&show_icons=true&locale=en" alt="hgokce34" /></p>

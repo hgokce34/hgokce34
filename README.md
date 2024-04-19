@@ -1,4 +1,4 @@
-[![MasterHead](https://pixabay.com/tr/illustrations/ai-olu%C5%9Fturuldu-adam-programc%C4%B1-8684869/)
+[![MasterHead](https://pixabay.com/tr/illustrations/say%C4%B1salla%C5%9Ft%C4%B1rma-devre-kart%C4%B1-el-6883780/)
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate QA Automation Engineer from Turkey</h3>

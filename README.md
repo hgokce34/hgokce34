@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?q=coding%20banner%20free&imgurl=https%3A%2F%2Fpng.pngtree.com%2Fpng-vector%2F20221231%2Fourlarge%2Fpngtree-coding-word-concepts-navy-banner-coder-icon-tag-vector-png-image_43722108.jpg&imgrefurl=https%3A%2F%2Fkor.pngtree.com%2Ffreepng%2Fcoding-word-concepts-navy-banner-coder-icon-tag-vector_12529286.html&docid=FnMyKaZTQDrDMM&tbnid=64yuywnUpVroyM&vet=12ahUKEwj3zJz-tc-FAxWMQ_EDHfjnA4gQM3oECFwQAA..i&w=719&h=640&hcb=2&ved=2ahUKEwj3zJz-tc-FAxWMQ_EDHfjnA4gQM3oECFwQAA)
+
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate QA Automation Engineer from Turkey</h3>

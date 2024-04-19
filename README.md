@@ -8,6 +8,24 @@
 - 📫 How to reach me **gokcehamza2934@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D8CC8&title_bg=%23555555&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
+
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+<img src="https://komarev.com/ghpvc/?username=hgokce34&&style=plastics&&color=yellow" align="right"/> </p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+ <!--Coder Uncle Pic
+<div id="header" align="right">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
+
+
+
+
+
+### </path></svg></a> About Me ✅ </h2>
+
 <p align="left">
 <a href="https://twitter.com/thelastdiver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thelastdiver" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamza gokce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza gokce" height="30" width="40" /></a>

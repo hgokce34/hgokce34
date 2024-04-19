@@ -28,7 +28,7 @@
 ### </path></svg></a> About Me ✅ </h2>
 
 <div align="center"> 
-  <a href="www.linkedin.com/in/hamza-gokce-1997b81b2" target="_blank">
+  <a href="www.linkedin.com/in/hamza-gokce" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
   </a>
   <a href = "mailto:gokcehamza2934@gmail.com">

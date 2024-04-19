@@ -1,11 +1,11 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 <h3 align="center">A passionate QA Automation Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **Appium**
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
 - 📫 How to reach me **gokcehamza2934@gmail.com**
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Appium**
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 - 📫 How to reach me **gokcehamza2934@gmail.com**
 

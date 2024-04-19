@@ -1,4 +1,4 @@
- 
+![](./profile-3d-contrib/profile-night-rainbow.svg) 
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate QA Automation Engineer from Turkey</h3>

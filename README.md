@@ -1,4 +1,4 @@
-
+ 
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate QA Automation Engineer from Turkey</h3>
@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgokce34&show_icons=true&locale=en" alt="hgokce34" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hgokce34&" alt="hgokce34" /></p>
+![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)

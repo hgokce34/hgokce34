@@ -1,4 +1,4 @@
-![](https://websiteninadi.uzantisi/gif_dosyasinin_adi.gif)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>
@@ -20,10 +20,6 @@
  <!--Coder Uncle Pic
 <div id="header" align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
-
-
-
-
 
 ### </path></svg></a> About Me ✅ </h2>
 

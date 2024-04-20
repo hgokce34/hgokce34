@@ -1,4 +1,4 @@
-
+![](https://websiteninadi.uzantisi/gif_dosyasinin_adi.gif)
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
 
 <h1 align="center">Hi 👋, I'm Hamza</h1>

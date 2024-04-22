@@ -4,7 +4,8 @@
 
 <h3 align="center">A passionate QA Automation Engineer from Turkey</h3>
 
- <h4 align="left">- 🌱 I’m currently learning **Appium**</h4>                    <h4 align="right">- 📫 How to reach me **gokcehamza2934@gmail.com**</h4>
+ <h4 align="center">- 🌱 I’m currently learning **Appium**</h4>
+ <h4 align="center">- 📫 How to reach me **gokcehamza2934@gmail.com**</h4>
   
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200"/> ![](./profile-3d-contrib/profile-night-rainbow.svg)
 

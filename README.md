@@ -1,13 +1,8 @@
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg) 
-
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">A passionate QA Automation Engineer from Turkey</h3>
-
 - 🌱 I’m currently learning **Appium**
-
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 - 📫 How to reach me **gokcehamza2934@gmail.com**
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D8CC8&title_bg=%23555555&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>

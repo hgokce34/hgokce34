@@ -21,7 +21,8 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
 
 ### </path></svg>  </a> About Me ✅  </h2>
-<h1 align="center">Hi 👋,  "Hi! I'm experienced in testing websites and apps using Selenium, Cucumber, and TestNG, with over 2 years of practice. Skilled in planning and executing tests efficiently. Proficient in Java for coding effective test scripts. Strong communicator, detail-oriented, and team player."</h1>
+
+<h1 align="center">Hi 👋,I'm experienced in testing websites and apps using Selenium, Cucumber, and TestNG, with over 2 years of practice. Skilled in planning and executing tests efficiently. Proficient in Java for coding effective test scripts. Strong communicator, detail-oriented, and team player."</h1>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/hamza-gokce-1997b81b2/" target="_blank">

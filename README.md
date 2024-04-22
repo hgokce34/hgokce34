@@ -18,7 +18,7 @@
 
 
  <!--Coder Uncle Pic
-<div id="header" align="right">
+<div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
 
 ### </path></svg></a> About Me ✅ </h2>

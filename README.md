@@ -17,9 +17,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
- <!--Coder Uncle Pic
+ <!--Coder Uncle Pic-->
 <div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
 
 ### </path></svg>  </a> About Me ✅  </h2>
 

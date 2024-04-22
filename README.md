@@ -9,7 +9,6 @@
   
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D8CC8&title_bg=%23555555&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
@@ -22,6 +21,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
 
 ### </path></svg>  </a> About Me ✅  </h2>
+<h1 align="center">Hi 👋,  "Hi! I'm experienced in testing websites and apps using Selenium, Cucumber, and TestNG, with over 2 years of practice. Skilled in planning and executing tests efficiently. Proficient in Java for coding effective test scripts. Strong communicator, detail-oriented, and team player."</h1>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/hamza-gokce-1997b81b2/" target="_blank">

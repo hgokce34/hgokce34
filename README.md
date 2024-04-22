@@ -21,7 +21,7 @@
 <div id="header" align="center">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> -->
 
-### </path></svg> align="center" </a> About Me ✅  </h2>
+### </path></svg>  </a> About Me ✅  </h2>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/hamza-gokce-1997b81b2/" target="_blank">

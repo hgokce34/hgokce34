@@ -110,9 +110,7 @@
 
 ## 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" alt="hgokce34"/>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgokce34&show_icons=true&locale=en&layout=compact" alt="hgokce34" /></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&layout=compact" alt="hgokce34"/>

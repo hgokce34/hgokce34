@@ -1,62 +1,76 @@
-
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
-
-<h1 align="center">Hi 👋, I'm Hamza</h1>
-
-<h3 align="center">A passionate QA Automation Engineer from Turkey</h3>
-
- <h4 align="center">- 🌱 I’m currently learning **Python**</h4>
- <h4 align="center">- 📫 How to reach me **gokcehamza2934@gmail.com**</h4>
-  
- ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D8CC8&title_bg=%23555555&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
-
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://komarev.com/ghpvc/?username=hgokce34&&style=plastics&&color=yellow" align="right"/> </p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
- <!--Coder Uncle Pic-->
-<div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/> 
-
-### </path></svg>  </a> About Me ✅  </h2>
-
-<h4 align="center">Hi 👋,I'm experienced in testing websites and apps using Selenium, Cucumber, and TestNG, with over 2 years of practice. Skilled in planning and executing tests efficiently. Proficient in Java for coding effective test scripts. Strong communicator, detail-oriented, and team player."</h4>
-
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/hamza-gokce-1997b81b2/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
-  </a>
-  <a href = "mailto:gokcehamza2934@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
-  </a>
-  <a href="(https://medium.com/@gokcehamza2934)">
-   <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
-  </a>
-  <a href="https://twitter.com/thelastdiver">
-   <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
-  </a>
-  <a href="https://www.instagram.com/hamzagokce.travel/?hl=tr" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23333?&style=for-the-badge&logo=instagram&logoColor=#E1306C "/>
-  </a>
-  <a href="(https://discord.com/channels/@me)" target="_blank">
-   <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
-  </a>
-    <a href="https://hamzagokce.atlassian.net/jira/software/projects/LID/boards/11/backlog" target="_blank">
-   <img alt="jira" src="https://img.shields.io/badge/jira-%23333?style=for-the-badge&logo=jira&logoColor=#7289d9"/>
-  </a>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/><a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a> <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
- </p>
-
-
-![](./profile-3d-contrib/profile-night-rainbow.svg) 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgokce34&show_icons=true&locale=en&layout=compact" alt="hgokce34" /></p>
-
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=hgokce34&style=flat-square&color=00ff88)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![FleetVision](https://img.shields.io/badge/🌐_FleetVision-00ff88?style=flat-square)
+Hamza Gökçe
+QA Automation Engineer → Full-Stack Developer
+Fleet Management & Test Automation Specialist
+</div>
+---
+👨‍💻 Hakkımda
+Türkiye'de 2+ yıl QA Automation deneyimine sahip, Selenium, Cucumber ve TestNG konusunda uzmanlaşmış bir mühendisim. Son dönemde filo yönetimi alanında tam kapsamlı bir web platformu geliştirerek full-stack geliştirme sürecine adım attım.
+🔭 Şu an FleetVision 2026 PRO üzerinde aktif geliştirme yapıyorum
+🌱 Python ve Firebase öğreniyorum
+🚛 Filo yönetimi & lojistik operasyonlarında yazılım çözümleri üretiyorum
+📫 İletişim: gokcehamza2934@gmail.com
+---
+🚀 Öne Çıkan Proje
+🚛 FleetVision 2026 PRO
+> Modern, gerçek zamanlı filo yönetim platformu
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+Özellik	Açıklama
+📊 Dashboard	Canlı KPI takibi ve anlık istatistikler
+🚛 Araç Yönetimi	Gelişmiş filtreler, sütun seçimi, toplu işlem, sağ tık menüsü
+⛽ Yakıt Takibi	Tüketim analizi ve aylık raporlama
+🔧 Bakım & Arıza	Periyodik bakım takibi ve arıza yönetimi
+🗺️ Canlı Harita	Google Maps ile araç konumu takibi
+🤝 CRM	Müşteri ve sözleşme yönetimi
+🚦 Ceza & Kaza	Trafik cezası ve kaza kayıt sistemi
+📈 Raporlar	AI destekli analitik ve veri dışa aktarma
+🔔 Bildirimler	Sigorta, muayene ve bakım alarm sistemi
+📱 Mobil Uyumlu	Responsive tasarım
+🌐 Canlı Demo: fleetvision.online | 💻 Repo: github.com/hgokce34/fleetvision
+---
+🛠️ Teknoloji Yetkinlikleri
+Test Otomasyonu
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+Web Geliştirme
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Araçlar & Platformlar
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
+📊 GitHub İstatistikleri
+<div align="center">
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&layout=compact)
+</div>
+---
+📫 İletişim
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Gökçe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-gokcehamza2934@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![FleetVision](https://img.shields.io/badge/🌐-fleetvision.online-00ff88?style=for-the-badge)
+</div>
+---
+<div align="center">
+<i>QA'dan Full-Stack'e — her satır kod bir test vakası gibi yazılır.</i>
+</div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgokce34&show_icons=true&locale=en" alt="hgokce34" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hgokce34&" alt="hgokce34" /></p>

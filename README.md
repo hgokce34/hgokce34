@@ -112,10 +112,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" alt="hgokce34"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&layout=compact" alt="hgokce34"/>
-</p>
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

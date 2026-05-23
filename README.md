@@ -1,28 +1,59 @@
-[README.md](https://github.com/user-attachments/files/28172566/README.md)
-<div align="center">
+[README (1).md](https://github.com/user-attachments/files/28172588/README.1.md)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=hgokce34&style=flat-square&color=00ff88)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-gokce-1997b81b2/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gokcehamza2934@gmail.com)
-[![FleetVision](https://img.shields.io/badge/🌐_FleetVision-00ff88?style=flat-square)](https://fleetvision.online)
+<h1 align="center">Hi 👋, I'm Hamza</h1>
 
-# Hamza Gökçe
+<h3 align="center">QA Automation Engineer → Full-Stack Developer</h3>
+<h4 align="center">Fleet Management & Test Automation Specialist 🚛</h4>
 
-### QA Automation Engineer → Full-Stack Developer
-**Fleet Management & Test Automation Specialist**
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhgokce34&count_bg=%2300ff88&title_bg=%23555555&icon=nestjs.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://komarev.com/ghpvc/?username=hgokce34&style=flat-square&color=00ff88"/>
+</p>
 
+<p align="center">
+  <img src="https://i.imgur.com/A6bWGFl.gif"/>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 </div>
 
 ---
 
-## 👨‍💻 Hakkımda
+## ✅ Hakkımda
 
-Türkiye'de 2+ yıl QA Automation deneyimine sahip, Selenium, Cucumber ve TestNG konusunda uzmanlaşmış bir mühendisim. Son dönemde filo yönetimi alanında tam kapsamlı bir web platformu geliştirerek full-stack geliştirme sürecine adım attım.
+<h4 align="center">2+ yıl QA Automation deneyimine sahip, Selenium, Cucumber ve TestNG konusunda uzmanlaşmış bir mühendisim. Son dönemde filo yönetimi alanında tam kapsamlı bir web platformu geliştirerek full-stack geliştirme sürecine adım attım.</h4>
 
 - 🔭 Şu an **FleetVision 2026 PRO** üzerinde aktif geliştirme yapıyorum
-- 🌱 **Python** ve **Firebase** öğreniyorum
+- 🌱 **Python** ve **Firebase** öğreniyorum  
 - 🚛 Filo yönetimi & lojistik operasyonlarında yazılım çözümleri üretiyorum
 - 📫 İletişim: **gokcehamza2934@gmail.com**
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/hamza-gokce-1997b81b2/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+  </a>
+  <a href="mailto:gokcehamza2934@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a>
+  <a href="https://medium.com/@gokcehamza2934">
+    <img src="https://img.shields.io/badge/Medium-%23333?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/thelastdiver">
+    <img src="https://img.shields.io/badge/twitter-%23333?style=for-the-badge&logo=twitter&logoColor=#00aced"/>
+  </a>
+  <a href="https://www.instagram.com/hamzagokce.travel/?hl=tr">
+    <img src="https://img.shields.io/badge/instagram-%23333?style=for-the-badge&logo=instagram&logoColor=#E1306C"/>
+  </a>
+  <a href="https://fleetvision.online" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_FleetVision-%23333?style=for-the-badge"/>
+  </a>
+</div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ---
 
@@ -51,57 +82,46 @@ Türkiye'de 2+ yıl QA Automation deneyimine sahip, Selenium, Cucumber ve TestNG
 
 **🌐 Canlı Demo:** [fleetvision.online](https://fleetvision.online) | **💻 Repo:** [github.com/hgokce34/fleetvision](https://github.com/hgokce34/fleetvision)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ---
 
 ## 🛠️ Teknoloji Yetkinlikleri
 
-### Test Otomasyonu
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+</p>
 
-### Web Geliştirme
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Araçlar & Platformlar
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ---
 
 ## 📊 GitHub İstatistikleri
 
-<div align="center">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" alt="hgokce34"/>
+</p>
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&layout=compact" alt="hgokce34"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hgokce34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&layout=compact)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-</div>
-
----
-
-## 📫 İletişim
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Gökçe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-gokce-1997b81b2/)
-[![Gmail](https://img.shields.io/badge/Gmail-gokcehamza2934@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokcehamza2934@gmail.com)
-[![FleetVision](https://img.shields.io/badge/🌐-fleetvision.online-00ff88?style=for-the-badge)](https://fleetvision.online)
-
-</div>
-
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
-<i>QA'dan Full-Stack'e — her satır kod bir test vakası gibi yazılır.</i>
+  <i>QA'dan Full-Stack'e — her satır kod bir test vakası gibi yazılır. 🚀</i>
 </div>
